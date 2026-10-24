@@ -306,3 +306,7 @@ For more information, visit the textbook's official website: [Vibes to Variables
 ---
 
 **Built with Quarto + GitHub Copilot** ✨
+
+## License
+
+The course materials in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0); see `LICENSE`. The build script `build_vault.py` is released under the MIT License, Copyright (c) 2026 Alex P. Leith.
